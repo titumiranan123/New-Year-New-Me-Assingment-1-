@@ -25,13 +25,13 @@ header {
 }
 
 /* close Header */
+
 /* main section */
 
 .first-section-content {
     padding: 338px 100px 50px 0;
 
 }
-
 
 .first-section-content ul {
     list-style: none;
@@ -50,9 +50,6 @@ header {
     color: #444343;
     width: 416px;
 }
-
-
-
 .btn-white {
     background-color: #fff;
     padding: 21px 25px 20px 26px;
@@ -165,3 +162,4 @@ footer{
     border: none;
     border-radius: 5px;
 }
+/* End */

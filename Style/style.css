@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 400px;
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    text-align: right;
+    padding: 216px 230px 166px 845px;
+}
+
+.header-title {
+
+    font-weight: 700;
+    font-size: 65px;
+
+}
+
+.header-description {
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/* close Header */
+/* main section */
+
+.first-section-content {
+    padding: 338px 100px 50px 0;
+
+}
+
+
+.first-section-content ul {
+    list-style: none;
+}
+
+.content-title {
+    width: 288px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.content-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    width: 416px;
+}
+
+
+
+.btn-white {
+    background-color: #fff;
+    padding: 21px 25px 20px 26px;
+    border: none;
+    border-radius: 5px;
+    color: #0da5eb;
+}
+section {
+    margin: 0 230px 0;
+}
+
+.fast-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 87px;
+    margin-top: 131px;
+    width: 1072px;
+    height: 723.3px;
+    
+}
+
+/* plan section */
+.Plan-header {
+    text-align: center;
+    margin: 90px 0 59px;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.plan-list {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.plan-heading {
+    margin: 25px 0 0 12px;
+    font-weight: 700;
+    font-size: 30px;
+
+}
+
+.plan-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+.last-section {
+    margin: 102px 0 0 0;
+    background-image: url(/images/watch.png);
+    background-blend-mode: multiply;
+    height: 300px;
+}
+
+.advice-contact {
+    margin-top: -200px;
+    margin-left: 59px;
+}
+
+.advice-contact h3 {
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 40px;
+    width: 459px;
+}
+
+/* footer Section */
+footer{
+    background-color: #151414;
+}
+.footer-content {
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-between;
+    gap: 331px;
+    padding: 130px 230px;
+    color: #FFFFFF;
+}
+
+
+.content-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #FFFFFF;
+
+}
+
+.content-description {
+    width: 485px;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 14px 0;
+    color: #FFFFFF;
+
+}
+
+.left-part input {
+    width: 150px;
+    height: 14px;
+    padding: 13px 101px 15px 15px;
+    margin: 31px 0 16px 0;
+}
+
+.btn-blue {
+    background-color: #0da5eb;
+    padding: 21px 25px 20px 26px;
+    border: none;
+    border-radius: 5px;
+}
